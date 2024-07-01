@@ -1,7 +1,7 @@
 #ifndef LAB_2_PD_ZLAB06_H
 #define LAB_2_PD_ZLAB06_H
 
-#include "zlab03.h" 
+#include "zlab03.h" //(lesson3)
 #include <iostream>
 
 using namespace std;
