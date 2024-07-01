@@ -77,9 +77,14 @@ void Zlab02::menu() {
 
     do {
         cout << "Ktore zadanie uruchomic?" << endl
-             << "3 -> zadanie 2.3" << endl
-             << "4 -> zadanie 2.4" << endl
-             << "5 -> zadanie 2.5" << endl;
+             << "3  -> zadanie 2.3" << endl
+             << "4  -> zadanie 2.4" << endl
+             << "5  -> zadanie 2.5" << endl
+             << "6  -> zadanie 2.7" << endl
+             << "7  -> zadanie 2.8" << endl
+             << "8  -> zadanie 2.9" << endl
+             << "9  -> zadanie 2.10" << endl
+             << "10 -> pobierz liczbe" << endl;
         cin >> wybor;
     } while (wybor < 3 || wybor > 10);
 
